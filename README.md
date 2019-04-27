@@ -1,2 +1,2 @@
-# the_solar_grid
+# The Solar Grid Soundscapes
 WIP - findings and process documentation for the Solar Grid Soundscapes work
