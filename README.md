@@ -7,7 +7,7 @@ After nearly two years of writing/recording and mixing, I thought it might be gr
 
 while I'm getting started fleshing this repo out, heres two bits you can check out:
 
-https://thesolargrid.net/read
+https://thesolargrid.net/read </br>
 https://paulmaclachlan.com
 
   as well as a direct link to Part One on YouTube: https://youtu.be/XDuEPARONeI
