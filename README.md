@@ -3,30 +3,29 @@ WIP - Findings and process documentation + general information for The Solar Gri
 
 # What is The Solar Grid?
 
-"An ailing Earth. A superior Mars.
-And two orphans who will change everything."
+_"An ailing Earth. A superior Mars.
+And two orphans who will change everything."_
 
-* “Big, complex, eccentric, with some marvellous stylistic choices and some serious intelligence.”
+* “Big, complex, eccentric, with some marvellous stylistic choices and some serious intelligence.” </br>
 – WARREN ELLIS, author of TRANSMETROPOLITAN, GUN MACHINE, and NORMAL
 
-* “The Solar Grid is an exhilarating and important slab of sci-fi comix.”
+* “The Solar Grid is an exhilarating and important slab of sci-fi comix.” </br>
 – COREY J. WHITE, author of KILLING GRAVITY, and VOID BLACK sHADOW
 
-* “Already it's claimed the title of my favorite comic series of 2016 and one of my favorite science fiction comics of all time.”
+* “Already it's claimed the title of my favorite comic series of 2016 and one of my favorite science fiction comics of all time.” </br>
 – PATRICK LAROSE, COMIC BASTARDS
 
-* “[THE SOLAR GRID] is an intoxicating, ambitious read, and each installment brings new angles and exciting concepts to the story.”
+* “[THE SOLAR GRID] is an intoxicating, ambitious read, and each installment brings new angles and exciting concepts to the story.” </br>
 – MARK ALLEN, FLICKERING MYTH
 
-* “A dire environmental warning.”
+* “A dire environmental warning.” </br>
 – FOREIGN POLICY
 
 
 
 # More information:
-https://thesolargrid.net/About </br>
-
-  as well as a direct link to Part One on YouTube: https://youtu.be/XDuEPARONeI
+Official Website: https://thesolargrid.net/About </br>
+The Solar Grid Soundscape Part One on YouTube: https://youtu.be/XDuEPARONeI
 
 # What is The Solar Grid Soundscape?
 
@@ -45,6 +44,6 @@ After nearly two years of writing/recording and mixing, I thought it might be gr
 
 More soon, thanks!
 
-- Paul MacLachlan
-https://paulmaclachlan.com
-https://nslasha.net
+- Paul MacLachlan </br>
+https://paulmaclachlan.com </br>
+https://nslasha.net </br>
